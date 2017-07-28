@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+
+}
+h1{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 10em;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 200px;
+	background: url("https://s-media-cache-ak0.pinimg.com/originals/b5/74/be/b574be54e045c6a324dbec610a44b442.jpg");
+	overflow: hidden;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-text-stroke-width: 2px;
+}
